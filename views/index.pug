@@ -1,5 +1,14 @@
 extends partials/layout
 
+block page_level_plugins
+
 block content
-  h1= title
+  if title
+    h1= title
+  else
+    h1 Template page
   p Welcome to #{title}
+  i.fa.fa-close
+
+  block page_level_scripts
+    script(src='../assets/pages/scripts/portlet-draggable.min.js', type='text/javascript')
