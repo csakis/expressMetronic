@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4b89b4c-e8c1-4897-80ab-cea369d6e03e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/Sorting icons.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/back_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/back_enabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/back_enabled_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/forward_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/forward_enabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/forward_enabled_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/img/sprite-skin-flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/img/sprite-skin-modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/img/sprite-skin-nice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/img/sprite-skin-simple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/img/backgrounds.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/img/buttons-disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/img/buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/img/delete.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/img/done.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/img/error.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/img/throbber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/img/transp50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.ui.plupload/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.ui.plupload/img/plupload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/datatables.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/datatables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/datatables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/plugins/bootstrap/datatables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/datatables/plugins/bootstrap/datatables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/flowchart/flowchart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/flowchart/flowchart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/flowchart/flowchart.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/css/ion.rangeSlider.Metronic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/css/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/css/ion.rangeSlider.skinFlat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/css/ion.rangeSlider.skinHTML5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/css/ion.rangeSlider.skinModern.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/css/ion.rangeSlider.skinNice.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/css/ion.rangeSlider.skinSimple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/js/ion.rangeSlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/ion.rangeslider/js/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/jquery.vmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/jquery.vmap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/jquery.vmap.packed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/jqvmap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/samples/europe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/samples/germany.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/samples/multi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/samples/russia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/samples/usa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/jqvmap/samples/world.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/sr_RS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/th_TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/uk_UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/i18n/zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/css/jquery.plupload.queue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/jquery.plupload.queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.plupload.queue/jquery.plupload.queue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.ui.plupload/css/jquery.ui.plupload.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.ui.plupload/jquery.ui.plupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/plupload/js/jquery.ui.plupload/jquery.ui.plupload.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/i18n/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/select2.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/select2.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/global/plugins/select2/js/select2.min.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/error.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.pug" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/index.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/partials/layout.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/layout.pug" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="69" />
+    <option name="y" value="53" />
+    <option name="width" value="2048" />
+    <option name="height" value="1309" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="expressMetronic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expressMetronic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="expressMetronic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expressMetronic" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="expressMetronic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expressMetronic" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="expressMetronic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expressMetronic" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="expressMetronic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expressMetronic" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/git" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="7.9.0" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\201783\Projects\expressMetronic\views\partials" />
+      <recent name="C:\Users\201783\Projects\expressMetronic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.metronicExpress" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\201783\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b89b4c-e8c1-4897-80ab-cea369d6e03e" name="Default" comment="" />
+      <created>1509039286154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509039286154</updated>
+      <workItem from="1509039289154" duration="967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="967000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="69" y="53" width="2048" height="1309" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14129353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292789" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292789" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292789" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39965248" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/layout.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/201783/Projects/expressMetronic">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/app.js#bodyParser#183;C:/Users/201783/Projects/expressMetronic/app.js#cookieParser#138;C:/Users/201783/Projects/expressMetronic/app.js#express#4;C:/Users/201783/Projects/expressMetronic/app.js#favicon#66;C:/Users/201783/Projects/expressMetronic/app.js#index#225;C:/Users/201783/Projects/expressMetronic/app.js#logger#106;C:/Users/201783/Projects/expressMetronic/app.js#path#38;C:/Users/201783/Projects/expressMetronic/app.js#users#264;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/application.js#Router#274;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#View#485;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#compileETag#557;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#compileQueryParser#614;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#compileTrust#672;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#debug#432;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#deprecate#709;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#finalhandler#230;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#flatten#753;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#http#515;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#merge#793;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#methods#308;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#middleware#342;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#query#389;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#resolve#839;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/application.js#setPrototypeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/attributes.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/attributes.js#str#110;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/support/benchmark.js#pug#71;C:/Users/201783/Projects/expressMetronic/node_modules/pug/support/benchmark.js#uubench#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/browser.js#debug.js#130;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/code.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/code.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/debug.js#index.js#354;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/dynamicscript.js#pug#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/each.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/each.js#str#104;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/events.js#EventEmitter#420;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/express.js#EventEmitter#233;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/express.js#Route#349;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/express.js#Router#388;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/express.js#index.js#1513;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/express.js#mixin#269;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/express.js#proto#311;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/express.js#query.js#1465;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/express.js#req#422;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/express.js#res#454;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/extend.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/extend.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/form.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/form.js#str#104;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/fs.js#readFileSync#11638;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/http.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/includes.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/includes.js#str#108;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/raw-body/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/iconv-lite/lib/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/methods/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/node_modules/statuses/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-lexer/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vary/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-static/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/encodeurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/index.js#Layer#262;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/index.js#Route#230;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/index.js#debug#364;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/index.js#deprecate#412;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/index.js#flatten#456;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/index.js#methods#294;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/index.js#mixin#328;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/index.js#parseUrl#496;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/lib/index.js#filters#343;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#fs#141;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#generateCode#415;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#lex#193;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#link#381;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#load#311;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#parse#276;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#path#165;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#runtime#459;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#runtimeWrap#497;C:/Users/201783/Projects/expressMetronic/node_modules/pug/lib/index.js#stripComments#225;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/range-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/finalhandler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-type/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/accepts/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ms/index.js</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/morgan/index.js#auth#411;C:/Users/201783/Projects/expressMetronic/node_modules/morgan/index.js#debug#444;C:/Users/201783/Projects/expressMetronic/node_modules/morgan/index.js#deprecate#483;C:/Users/201783/Projects/expressMetronic/node_modules/morgan/index.js#onFinished#525;C:/Users/201783/Projects/expressMetronic/node_modules/morgan/index.js#onHeaders#565;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/utils-merge/index.js</node>
+            <node x="" y="">Buffer;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-strip-comments/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-finished/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-runtime/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/http-errors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-disposition/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/escape-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/merge-descriptors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-linker/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/index.js#deprecate#156;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/index.js#json.js#2302;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/index.js#raw.js#2373;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/index.js#text.js#2444;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/index.js#urlencoded.js#2522;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-filters/index.js</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fresh/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/index.js#browser.js#186;C:/Users/201783/Projects/expressMetronic/node_modules/debug/src/index.js#node.js#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/setprototypeof/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/path-to-regexp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/proxy-addr/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-headers/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-favicon/index.js#Buffer#236;C:/Users/201783/Projects/expressMetronic/node_modules/serve-favicon/index.js#etag#270;C:/Users/201783/Projects/expressMetronic/node_modules/serve-favicon/index.js#fresh#297;C:/Users/201783/Projects/expressMetronic/node_modules/serve-favicon/index.js#fs#326;C:/Users/201783/Projects/expressMetronic/node_modules/serve-favicon/index.js#ms#349;C:/Users/201783/Projects/expressMetronic/node_modules/serve-favicon/index.js#parseUrl#372;C:/Users/201783/Projects/expressMetronic/node_modules/serve-favicon/index.js#path#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/parseurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bytes/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/etag/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie-parser/index.js#cookie#190;C:/Users/201783/Projects/expressMetronic/node_modules/cookie-parser/index.js#signature#222;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/basic-auth/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/depd/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/type-is/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-load/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-code-gen/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/init.js#setPrototypeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/inspector-log.js#nullStream#70;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/json.js#bytes#190;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/json.js#contentType#219;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/json.js#createError#261;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/json.js#debug#302;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/json.js#read#351;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/json.js#typeis#381;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/layer.js#debug#274;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/layout-debug.js#pug#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/layout.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/layout.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/mixins.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/mixins.js#str#106;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/net.js#isIP#42473;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/node.js#debug.js#214;C:/Users/201783/Projects/expressMetronic/node_modules/debug/src/node.js#fs#4406;C:/Users/201783/Projects/expressMetronic/node_modules/debug/src/node.js#net#4575;C:/Users/201783/Projects/expressMetronic/node_modules/debug/src/node.js#tty#37;C:/Users/201783/Projects/expressMetronic/node_modules/debug/src/node.js#util#63;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/node.js#node.js#17;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/path.js#resolve#33754;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/query.js#merge#218;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/middleware/query.js#parseUrl#253;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/middleware/query.js#qs#289;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/querystring.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/raw.js#bytes#144;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/raw.js#debug#173;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/raw.js#read#221;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/raw.js#typeis#251;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/read.js#createError#156;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/read.js#getBody#197;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/read.js#iconv#231;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/read.js#onFinished#265;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/read.js#zlib#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/register.js#pug#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/request.js#accepts#230;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/request.js#deprecate#264;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/request.js#fresh#401;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/request.js#http#373;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/request.js#isIP#315;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/request.js#parse#473;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/request.js#parseRange#431;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/request.js#proxyaddr#506;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/response.js#contentDisposition#194;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#cookie#793;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#deprecate#251;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#encodeUrl#295;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#escapeHtml#333;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#http#374;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#isAbsolute#415;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#merge#554;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#normalizeType#651;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#normalizeTypes#706;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#onFinished#450;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#path#491;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#send#825;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#setCharset#758;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#sign#597;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#statuses#519;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/response.js#vary#931;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/route.js#Layer#324;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/route.js#debug#230;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/route.js#flatten#284;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/rss.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/rss.js#str#103;</node>
+            <node x="" y="">$PROJECT_DIR$/server.js#app#58;C:/Users/201783/Projects/expressMetronic/server.js#debug#86;C:/Users/201783/Projects/expressMetronic/server.js#http#142;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/text.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/text.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/text.js#bytes#144;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/text.js#contentType#173;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/text.js#debug#215;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/text.js#read#264;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/text.js#typeis#294;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/tty.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js#bytes#190;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/urlencoded.js#contentType#219;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/urlencoded.js#createError#261;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/urlencoded.js#debug#302;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/urlencoded.js#deprecate#357;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/urlencoded.js#index.js#4569;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/urlencoded.js#querystring.js#4631;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/urlencoded.js#read#404;C:/Users/201783/Projects/expressMetronic/node_modules/body-parser/lib/types/urlencoded.js#typeis#434;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/users.js#express#4;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/util.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/utils.js#compileETag#3405;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#compileQueryParser#3955;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#compileTrust#4605;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#contentDisposition#198;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#contentType#255;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#deprecate#298;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#etag#415;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#flatten#342;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#isAbsolute#1267;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#mime#389;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#normalizeType#1874;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#normalizeTypes#2152;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#proxyaddr#443;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#qs#482;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#querystring#506;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/utils.js#setCharset#5202;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/view.js#__express#1537;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/view.js#debug#230;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/view.js#fs#304;C:/Users/201783/Projects/expressMetronic/node_modules/express/lib/view.js#path#276;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/whitespace.js#pug#38;C:/Users/201783/Projects/expressMetronic/node_modules/pug/examples/whitespace.js#str#110;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-runtime/wrap.js</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/zlib.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/lib/index.js#__express#12357;</node>
+            <node x="" y="">Writable;</node>
+            <node x="" y="">uubench</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.410246679316888" x="1522.6123959296947" y="1187.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
