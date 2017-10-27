@@ -1,1 +1,13 @@
-mixin portlet(title)
+mixin myPortlet(options)
+  .portlet.light.bordered
+    .portlet-title
+      .caption
+        span= options.title
+      .tools
+        a.collapse
+        a.fullscreen
+        a.remove
+    .portlet-body
+      block
+
+

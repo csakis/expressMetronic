@@ -1,14 +1,27 @@
 extends partials/layout
-
-block page_level_plugins
-
 block content
   if title
     h1= title
   else
     h1 Template page
-  p Welcome to #{title}
-  i.fa.fa-close
+  include mixins/portlet.pug
+  #sortable_portlets.row
+    .col-sm-4
+      +myPortlet({title: "My portlet"})
+        p This is some stupid text .col-sm-4.sortable.column
+    .col-sm-4
+      +myPortlet({title: "My portlet2"})
+        p This is some stupid text .col-sm-4.sortable.column
+    .col-sm-4
+      +myPortlet({title: "My portlet3"})
+        p This is some stupid text
 
-  block page_level_scripts
-    script(src='../assets/pages/scripts/portlet-draggable.min.js', type='text/javascript')
+
+  block page_level_plugins
+    script(src='../assets/global/plugins/jquery-ui/jquery-ui.min.js', type='text/javascript')
+
+
+
+
+
+
